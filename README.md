@@ -1,5 +1,5 @@
 # EqualSpaceWithCell
-
+CollectionView等高不等宽
 现在支持左对齐，居中对齐，靠右对齐。
 
 EqualSpaceFlowLayoutEvolve * flowLayout = [[EqualSpaceFlowLayoutEvolve alloc]initWthType:AlignWithRight];
